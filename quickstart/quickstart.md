@@ -1,6 +1,6 @@
 ---
-description: Fundamentals, philosophy, and motivation.
 icon: clipboard-question
+description: Fundamentals, philosophy, and motivation.
 ---
 
 # Project Overview
@@ -15,13 +15,9 @@ The legal field is often seen as slow to adopt modern technology, clinging to tr
 
 Embracing technological advancements can streamline operations, from case management to communication, enabling legal professionals to offer faster, more efficient services while improving accessibility and client satisfaction.
 
-{% hint style="info" %}
-Want to learn about writing content from scratch? Head to the [Basics](https://github.com/GitbookIO/onboarding-template/blob/main/getting-started/broken-reference/README.md) section to learn more.
-{% endhint %}
-
 ### Our Philosophy
 
-#### Three key pillars.:
+#### Three key pillars:
 
 1. We prioritize specialization over generalization, creating a module-based system that adapts to each law firm's unique context. By focusing on tailored features, we ensure more relevant functionality.&#x20;
 2. We seek to harness modern AI to enhance utility across the legal field, training machine learning models on clean data to minimize future configuration needs.
