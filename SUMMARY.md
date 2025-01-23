@@ -25,3 +25,4 @@
 * [Cloudflare Workers](https://developers.cloudflare.com/workers/)
 * [Workers AI](https://developers.cloudflare.com/workers-ai/)
 * [Supabase](https://supabase.com/docs)
+* [AGiXT](https://github.com/Josh-XT/AGiXT)
