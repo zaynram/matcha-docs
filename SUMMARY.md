@@ -1,8 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
-  * [Project](https://github.com/orgs/RamdevOrg/projects/2)
-  * [Repositories](https://github.com/RamdevOrg/ws-matcha)
+  * [repo](https://github.com/cclDevTeam/matcha)
 
 ## Quickstart
 
