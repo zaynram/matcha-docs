@@ -16,13 +16,13 @@
 
 ## Frameworks
 
+* [Cloudflare Workers](https://developers.cloudflare.com/workers/)
+* [Open Next](https://opennext.js.org/cloudflare)
 * [NextJS (Web)](https://nextjs.org/docs)
 * [Expo (Mobile)](https://docs.expo.dev/get-started/introduction/)
 
 ## API
 
-* [Open Next](https://opennext.js.org/cloudflare)
-* [Cloudflare Workers](https://developers.cloudflare.com/workers/)
 * [Workers AI](https://developers.cloudflare.com/workers-ai/)
 * [Supabase](https://supabase.com/docs)
 * [AGiXT](https://github.com/Josh-XT/AGiXT)
