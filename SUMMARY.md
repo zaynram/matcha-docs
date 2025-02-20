@@ -23,7 +23,7 @@
 
 ***
 
-* [2-20-25 Notes](2-20-25-notes/README.md)
+* [2-25-20](2-25-20/README.md)
   * [React Types](https://github.com/DefinitelyTyped/DefinitelyTyped/blob/b580df54c0819ec9df62b0835a315dd48b8594a9/types/react/index.d.ts#L71)
   * [RN View Props](https://reactnative.dev/docs/view-style-props%3ERNViewProps)
   * [RN Text Props](https://reactnative.dev/docs/text-style-props)

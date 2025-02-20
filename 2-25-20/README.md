@@ -1,4 +1,18 @@
-# 2-20-25 Notes
+---
+layout:
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+---
+
+# 2-25-20
 
 {% code overflow="wrap" fullWidth="true" %}
 ```toml
