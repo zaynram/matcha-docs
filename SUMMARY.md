@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Introduction](README.md)
-  * [org](https://github.com/cclDevTeam)
 
 ## Quickstart
 
@@ -10,18 +9,16 @@
 
 ## Backend
 
-* [Cloudflare Workers](https://developers.cloudflare.com/workers/)
 * [Workers AI](https://developers.cloudflare.com/workers-ai/)
+* [Firebase](https://firebase.google.com/docs)
 
 ## Frontend
 
 * [Tamagui](https://tamagui.dev/docs/intro/introduction)
-* [Vite](https://vite.dev/guide/)
-* [CapacitorJS](https://capacitorjs.com/docs)
+* [Expo](https://docs.expo.dev/)
 
 ## Integrations
 
-* [\[Authentication\_Provider\]](https://supabase.com/docs)
 * [AGiXT (?)](https://github.com/Josh-XT/AGiXT)
 
 ***
